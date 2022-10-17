@@ -132,12 +132,13 @@ header h2 {
     background: #f8efc7;
     border-radius: 10px;
     width: 250px;
-    height: 200px;
+    height: 250px;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    padding: 0 20px;
+    padding: 10px 20px;
+    text-align: center;
 }
 
 .beneficio h1{
